@@ -28,9 +28,9 @@ require_once('partials/_head.php');
         <div class="header-body text-center mb-7">
           <div class="row justify-content-center">
             <div class="col-lg-5 col-md-6">
-              <h1 class="text-white">Restaurant Point Of Sale</h1>
+              <h1 class="text-white">Cashier Login Form</h1>
             </div>
-          </div><!-- For more projects: Visit codeastro.com  -->
+          </div>
         </div>
       </div>
     </div>
@@ -77,7 +77,7 @@ require_once('partials/_head.php');
           </div>
         </div>
       </div>
-    </div><!-- For more projects: Visit codeastro.com  -->
+    </div>
   </div>
   <!-- Footer -->
   <?php
@@ -88,5 +88,3 @@ require_once('partials/_head.php');
   require_once('partials/_scripts.php');
   ?>
 </body>
-<!-- For more projects: Visit codeastro.com  -->
-</html>
