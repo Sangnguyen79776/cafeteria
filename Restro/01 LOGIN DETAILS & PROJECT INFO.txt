@@ -1,10 +1,4 @@
-**Log on to codeastro.com for more projects!***
 
-**Database Name: rposystem**
-
-**Developed by Martin Mbithi Nzilani**
-
-**Recommended PHP Version 7.4**
 
 
 **Admin Login Details**

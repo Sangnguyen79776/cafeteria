@@ -220,8 +220,9 @@ require_once('partials/_head.php');
                                                 </div>
                                             </div>
                                         </div>
+                                        </form>
                                     </div>
-                                </form>
+                              
                             </div>
                         </div>
                     </div>
