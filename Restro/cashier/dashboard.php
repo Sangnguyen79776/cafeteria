@@ -113,7 +113,7 @@ require_once('partials/_analytics.php');
                   <a href="orders_reports.php" class="btn btn-sm btn-primary">See all</a>
                 </div>
               </div>
-            </div><!-- For more projects: Visit codeastro.com  -->lass="table-responsive">
+            </div><lass="table-responsive">
               <!-- Projects table -->
               <table class="table align-items-center table-flush">
                 <thead class="thead-light">
